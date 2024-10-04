@@ -1,6 +1,6 @@
-# Projects README
+# Top-10 Medium-Level React Machine Coding Question
 
-This README outlines ten React-based projects with descriptions and functionalities for each component. These projects range from building basic components such as pagination and search filters to more advanced applications like real-time chat and notifications.
+This README outlines ten React-based projects with descriptions and functionalities for each component.
 
 ## Table of Contents
 
