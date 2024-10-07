@@ -7,6 +7,14 @@
   - DRY (Don't Repeat Yourself)
   - Rule of Three
 - SOLID Principle
-- Class UML Diagram
+  - Single Responsibility
+  - Open/Closed Principle
+  - Liskov's Principle
+  - Interface Segregation
+  - Dependency Inversion
+- Class UML(Unified Modeling Language) Diagram
+  - Association
+  - Aggregation
+  - Composition
 
 ---
